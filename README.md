@@ -1,0 +1,2 @@
+# moodleprofilecompletionblock
+Many students leave their Moodle profiles incomplete. This plugin provides a Dashboard block that displays a profile completion percentage bar and a list of missing fields. By gamifying the process, it encourages students to reach 100% completion, ensuring better data quality for administrators.
